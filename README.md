@@ -11,7 +11,7 @@
 
 - 📫 Escríbeme al correo: **pablo.bautista.mkt@gmail.com**
 
-<h3 align="left">Contáctactame en:</h3>
+<h3 align="left">Contáctame en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablobautistagoyoneche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablobautistagoyoneche" height="30" width="40" /></a>
 </p>
