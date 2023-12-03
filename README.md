@@ -1,19 +1,20 @@
 <h1 align="center">Hola 👋, soy Pablo Bautista Goyoneche</h1>
 <h3 align="center">Full Stack Developer apasionado por la creación de soluciones innovadoras en web y aplicaciones. 💻🚀"</h3>
 
+
 - 🔭 Actualmente estoy trabajando en [Airbnb Clone](https://github.com/PabloBautistaGoyoneche/holbertonschool-AirBnB_clone_v4)
 
-- 🌱 Actualmente estoy aprendiendo **Nodejs, React y Javascript**
+- 🌱 Actualmente estoy aprendiendo ** Nodejs, React y Javascript **
 
-- 👯 Estoy buscando colaborar en **Proyectos de con el lenguaje python**
+- 👯 Estoy buscando colaborar en ** Proyectos de con el lenguaje python **
 
-- 💬 Puedes preguntarme sobre **Python y C**
+- 💬 Puedes preguntarme sobre ** Python y C **
 
-- 📫 Me puedes mandar un mail **pablo.bautista.mkt@gmail.com**
+- 📫 Me puedes mandar un mail ** pablo.bautista.mkt@gmail.com **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Puedes contactarme en:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pablobautistagoyoneche/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /> Perfil de Linkeding</a>
+<a href="https://www.linkedin.com/in/pablobautistagoyoneche/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
