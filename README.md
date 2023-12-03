@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablobautistagoyoneche&label=Profile%20views&color=0e75b6&style=flat" alt="pablobautistagoyoneche" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablobautistagoyoneche" alt="pablobautistagoyoneche" /></a> </p>
-
 - 🔭 Actualmente estoy practicando mi [Lógica de programación](https://github.com/PabloBautistaGoyoneche/logica-de-programacion)
 
 - 🌱 Actualmente estoy aprendiendo **React, Vue, Tailwind CSS,**
@@ -15,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/pablobautistagoyoneche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablobautistagoyoneche" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
