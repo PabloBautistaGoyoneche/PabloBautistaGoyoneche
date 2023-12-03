@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Pablo Bautista Goyoneche</h1>
 <h3 align="center">Full Stack Developer apasionado por la creación de soluciones innovadoras en web y aplicaciones. 💻🚀"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablobautistagoyoneche&label=Profile%20views&color=0e75b6&style=flat" alt="pablobautistagoyoneche" /> </p>
+<a href="https://www.linkedin.com/in/pablobautistagoyoneche/" target="blank"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablobautistagoyoneche&label=Profile%20views&color=0e75b6&style=flat" alt="pablobautistagoyoneche"/> </p> </a> 
 
 - 🔭 Actualmente estoy trabajando en [Airbnb Clone](https://github.com/PabloBautistaGoyoneche/holbertonschool-AirBnB_clone_v4)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablobautistagoyoneche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablobautistagoyoneche/" height="30" width="40" /></a>
+<a "https://linkedin.com/in/https://www.linkedin.com/in/pablobautistagoyoneche/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablobautistagoyoneche/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
